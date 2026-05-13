@@ -1,6 +1,6 @@
 # Digital ULUS — Vault
 
-This is the knowledge vault of Khan, managed by six Telegram bots and read via Obsidian.
+This is the knowledge vault of Chingiz, managed by six Telegram bots and read via Obsidian.
 
 ## Structure
 
@@ -44,6 +44,6 @@ Body in markdown...
 
 ## Read-only convention
 
-This vault is primarily written by bots. Khan can read freely; manual edits
+This vault is primarily written by bots. Chingiz can read freely; manual edits
 should be made in Obsidian, then `git push` from Mac so the VPS picks up
 changes via its scheduled `git pull`.
