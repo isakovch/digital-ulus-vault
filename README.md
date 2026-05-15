@@ -1,4 +1,4 @@
-# Digital ULUS — Vault
+# Digital Ulus — Vault
 
 This is the knowledge vault of Chingiz, managed by six Telegram bots and read via Obsidian.
 
