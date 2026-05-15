@@ -1,0 +1,4 @@
+# Vault runtime artifacts — never commit sqlite databases
+.ulus/*.sqlite
+.ulus/*.sqlite-wal
+.ulus/*.sqlite-shm
